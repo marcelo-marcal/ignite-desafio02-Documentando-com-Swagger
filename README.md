@@ -12,6 +12,7 @@ yarn add @types/swagger-ui-express
 
 Adiconar dentro do arquivo index.ts uma rota
 src/index.ts
+
 img 02
 
 No browser:
